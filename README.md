@@ -23,3 +23,8 @@
 </div>
 
 - 📫 Reach us at: **speedcoders.com@gmail.com**
+
+<h3 align="left">Connect with us:</h3>
+<p align="left">
+<a href="https://fb.com/facebook.com/SpeedCoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb-page" height="30" width="40" /></a>
+</p>
