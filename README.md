@@ -15,11 +15,11 @@
 <p></p><p></p>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=speed-coders&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="speed-coders-thropies" />
+<img src="https://github-profile-trophy.vercel.app/?username=speed-coders&theme=juicyfresh&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="speed-coders-thropies" />
 </div>
 <p></p><p></p>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=speed-coders&theme=dracula&title=Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=2" alt="speed-coders-thropies" />
+<img src="https://github-profile-trophy.vercel.app/?username=speed-coders&theme=juicyfresh&title=Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=2" alt="speed-coders-thropies" />
 </div>
 
 - 📫 Reach us at: **speedcoders.com@gmail.com**
@@ -28,6 +28,7 @@
 <p align="left">
 <a href="https://fb.com/facebook.com/SpeedCoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb-page" height="30" width="40" /></a>
 </p>
+
 
 <div align="center">
 
