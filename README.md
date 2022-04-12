@@ -1,6 +1,6 @@
 <h1 align="center">SpeedCoders</h1>
 
-<center><img align="center" src="banner.png" alt="banner" /></center>
+<center><img align="center" src="banner.jpg" alt="banner" /></center>
 
 <h3 align="center">
   We are a team of BCS undergraduates at Eastern University of Sri Lanka. 
