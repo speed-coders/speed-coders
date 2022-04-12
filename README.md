@@ -22,11 +22,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=speed-coders&theme=dracula&title=Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=2" alt="speed-coders-thropies" />
 </div>
 
-
-- 🌱 I’m currently learning **Node.js, React, Vue**
-
-- 📝 I regularly write articles on [http://dilshan.cf/](http://dilshan.cf/)
-
-- 💬 Ask me about **Python, Haskell, Go, Java, C#, C++, Assembly, Ruby, Perl, Rust, PHP**
-
-- 📫 Reach me at: **maleeshasparrow@gmail.com**
+- 📫 Reach us at: **speedcoders.com@gmail.com**
