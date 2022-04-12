@@ -19,5 +19,5 @@
 </div>
 <p></p><p></p>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=speed-coders&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="speed-coders-thropies" />
+<img src="https://github-profile-trophy.vercel.app/?username=speed-coders&theme=dracula&title=Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=2" alt="speed-coders-thropies" />
 </div>
