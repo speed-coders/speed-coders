@@ -10,6 +10,6 @@
 
 <p></p><p></p>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=speed-coders&style=for-the-badge&color=blueviolet" alt="speed-coders" />
+  <img src="https://komarev.com/ghpvc/?username=speed-coders&style=for-the-badge&color=ff69b4" alt="speed-coders" />
 </div>
 <p></p><p></p>
