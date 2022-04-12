@@ -15,9 +15,9 @@
 <p></p><p></p>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dilshankarunarathne&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="dilshankarunarathne" />
+<img src="https://github-profile-trophy.vercel.app/?username=speed-coders&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="speed-coders-thropies" />
 </div>
 <p></p><p></p>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dilshankarunarathne&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="dilshankarunarathne" />
+<img src="https://github-profile-trophy.vercel.app/?username=speed-coders&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="speed-coders-thropies" />
 </div>
