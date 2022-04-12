@@ -31,11 +31,10 @@
 
 
 <div align="center">
-
+<p></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=speed-coders&show_icons=true&theme=maroongold&locale=en&layout=compact&hide_border=true" alt="speed-coders" />    
-
+<p></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=speed-coders&show_icons=true&theme=maroongold&locale=en&hide_border=true" alt="speed-coders" />
-
+<p></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=speed-coders&theme=maroongold&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="speed-coders" />
-
 </div>
